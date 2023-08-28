@@ -1,4 +1,3 @@
-#pyhton code 
 
 
 class Employee:
@@ -46,5 +45,3 @@ def main():
 if __name__ == "_main_":
     main()
 
-
-#....................
