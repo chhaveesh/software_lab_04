@@ -1,5 +1,3 @@
-
-
 class Employee:
     def __init__(self, emp_id, name, age, salary):
         self.emp_id = emp_id
@@ -42,6 +40,5 @@ def main():
     for emp in sorted_employees:
         print(emp)
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
-
